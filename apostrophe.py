@@ -1,4 +1,4 @@
-#This is qoutes using two qoutes
+#This is qoutes using two qoutes. "" vs ''
 message = "One of Python's strengths is its diverse community."
 print(message)
 
