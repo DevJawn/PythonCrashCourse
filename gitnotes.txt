@@ -1,0 +1,4 @@
+git add . = all files has been edited created and deleted.
+git commit -m "added comments for description" = leave a message or comment for a commit or fixes are to the main branch
+git push origin main = pushing all the changes i made to the branch of main.
+git add .; git commit -m "added comments for description"; git push origin main
